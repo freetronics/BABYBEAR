@@ -1,6 +1,6 @@
 Freetronics Baby Bear
 =====================
-Copyright 2013 Freetronics Pty Ltd  <www.freetronics.com>  
+Copyright 2013-2018 Freetronics Pty Ltd  <www.freetronics.com>  
 
 The Baby Bear is an Arduino Compatible Board based on the ATmega1284P
 MCU, which means it's compatible with projects designed for the Arduino
@@ -8,9 +8,9 @@ Uno but has more memory and I/O capabilities.
 
 Features:
 
+ * USB-C connector
  * Prototyping area
  * LEDs visible on the edge when a shield is fitted
- * Micro-USB Connector
  * Overlay guide where you need it (both top and bottom)
  * D13 pin works for everything
  * Mounting holes and power pads
